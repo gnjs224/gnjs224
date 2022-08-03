@@ -1,4 +1,4 @@
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508gnjs224&count_bg=%23C39B71&title_bg=%23FF006B&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
  <br/><br/>
  # Solved
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ben224)](https://solved.ac/ben224/)
