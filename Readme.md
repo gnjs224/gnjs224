@@ -2,6 +2,12 @@
  <br/><br/>
  # Solved
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ben224)](https://solved.ac/ben224/)
+ <br/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnjs224)](https://github.com/anuraghazra/github-readme-stats)
+ <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnjs224)](https://github.com/anuraghazra/github-readme-stats) 
+
+
  <br/><br/><br/>
  # Experience
 **platforms & Languages**  
@@ -21,4 +27,3 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
 
- <br/><br/>
